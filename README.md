@@ -2,7 +2,7 @@
 
 Turn HTML tables with merged cells into CSV or JSON, using only Python's standard library. Useful when table HTML comes from a web export, a report, or an OCR pipeline and the next step expects a regular grid.
 
-**[Quickstart](#quickstart)** · **[See the examples](#examples)** · **[Run the browser demo](#browser-demo)**
+**[Try it online](https://lillyli-netizen.github.io/Me-designed-page/table-grid/)** · **[Quickstart](#quickstart)** · **[See the examples](#examples)**
 
 | Model | Validation | Validation |
 | --- | --- | --- |
