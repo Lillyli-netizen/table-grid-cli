@@ -35,6 +35,6 @@ JSON cell coordinates are zero-indexed. Cells with `rowspan="0"` extend to the e
 
 ## Browser demo
 
-From the cloned directory, run `python3 -m http.server 8000` and open [http://localhost:8000](http://localhost:8000). You can load either example or paste your own table. Conversion runs in the browser.
+Open the [online demo](https://lillyli-netizen.github.io/Me-designed-page/table-grid/) to preview the grid, compare merge settings, and copy or download the result. To run it locally, start `python3 -m http.server 8000` from the cloned directory and open [http://localhost:8000](http://localhost:8000). Conversion runs in the browser.
 
 If Table Grid is useful to you, a GitHub Star helps other people find it. For unexpected output, please share a small, non-sensitive HTML example and the grid you expected in an issue.
